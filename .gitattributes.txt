@@ -1,0 +1,9 @@
+* text=auto
+
+*.java text
+*.py text
+*.sh text
+*.md text
+*.sql text
+*.R text
+.gitignore text
